@@ -8,7 +8,7 @@ Jupter notebooks : [a julia notebook](https://github.com/NicJC/NicJC/blob/main/N
 
 R with maps in leaflet 
 
-Julia plots
+Julia [plots](https://github.com/NicJC/Julia-Plots)
 
 a python notebook on police shootings
 
