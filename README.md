@@ -10,8 +10,8 @@ R with maps in leaflet
 
 Julia [plots](https://github.com/NicJC/Julia-Plots)
 
-a python notebook on police shootings
+a python notebook on [police shootings](https://github.com/NicJC/Datasets/blob/main/Police%20Shootings.ipynb)
 
-Some R data for Forest-fires 
+Some R data and my R repo for [Forest-fires](https://github.com/NicJC/Fires)
 
 
