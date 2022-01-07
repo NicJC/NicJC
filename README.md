@@ -11,5 +11,7 @@
 
 * Python  ~ notebook on [police shootings](https://github.com/NicJC/Datasets/blob/main/Police%20Shootings.ipynb)
 
+* C# ~ a special stats calculator
+
  
 
