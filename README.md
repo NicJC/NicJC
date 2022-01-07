@@ -7,7 +7,7 @@
 
   ~ Julia [plots](https://github.com/NicJC/Julia-Plots)
   
-* R ~ R repositories for [Forest-fires](https://github.com/NicJC/Fires) and  [Gun Violence](https://github.com/NicJC/Gun-Violence), plus more at [datasets](https://github.com/NicJC/Datasets) 
+* R ~ R repositories for [Forest-fires](https://github.com/NicJC/Fires) ,[Gun Violence](https://github.com/NicJC/Gun-Violence), and [UFC](https://github.com/NicJC/UFC) 
 
 * Python  ~ notebook on [police shootings](https://github.com/NicJC/Datasets/blob/main/Police%20Shootings.ipynb) and .py code to create an app to download a [dataset to your computer](https://github.com/NicJC/Datasets/blob/main/US_Arrests.py)
 
